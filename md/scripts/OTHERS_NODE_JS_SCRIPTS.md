@@ -1,4 +1,4 @@
-*  Change Route : `/languages` in `/user_language` :
+*  Change HTML Route in all files : `/languages` in `/user_language` :
 
 ```js
 const fs = require('fs');
